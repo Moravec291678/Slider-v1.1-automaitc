@@ -1,0 +1,14 @@
+body { 
+  background-color: #141414;
+  margin: 0;
+  bottom: 0;
+}
+
+.slider {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
